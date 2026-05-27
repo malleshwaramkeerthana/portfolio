@@ -126,13 +126,7 @@ function App() {
   >
     LinkedIn
   </a>
-    <a
-  href="client/public/Keerthana Malleshwaram - ResumeFullStack.pdf"
-  target="_blank"
-  className="border border-purple-500 px-6 py-3 rounded-xl hover:bg-purple-500 transition"
->
-  Resume
-</a>
+ 
 </div>
 
       </section>
