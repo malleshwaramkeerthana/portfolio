@@ -279,9 +279,14 @@ function App() {
               React • PostgreSQL • Gemini API
             </p>
 
-            <button className="bg-purple-600 px-4 py-2 rounded-lg hover:bg-purple-700">
-              View Project
-            </button>
+            <a
+  href="https://github.com/malleshwaramkeerthana/PrepAI.git"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-purple-600 px-4 py-2 rounded-lg hover:bg-purple-700 inline-block"
+>
+  View Project
+</a>
 
           </div>
 
@@ -300,9 +305,14 @@ function App() {
               Python • Flask • Machine Learning
             </p>
 
-            <button className="bg-purple-600 px-4 py-2 rounded-lg hover:bg-purple-700">
-              View Project
-            </button>
+            <a
+  href="https://github.com/malleshwaramkeerthana/Flight-Price-Prediction-using-ML"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-purple-600 px-4 py-2 rounded-lg hover:bg-purple-700 inline-block"
+>
+  View Project
+</a>
 
           </div>
 
