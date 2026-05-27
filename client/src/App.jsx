@@ -106,13 +106,7 @@ function App() {
 
         <div className="mt-8 flex gap-4">
 
-          <button className="border border-purple-500 px-6 py-3 rounded-xl hover:bg-purple-500 transition">
-            View Projects
-          </button>
-
-          <button className="border border-purple-500 px-6 py-3 rounded-xl hover:bg-purple-500 transition">
-            Contact Me
-          </button>
+          
 
         </div>
         <div className="mt-8 flex gap-4 flex-wrap">
